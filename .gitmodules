@@ -1,0 +1,36 @@
+[submodule "venfetch"]
+	path = venfetch
+	url = https://git.nin0.dev/userplugins/venfetch
+[submodule "vc-voiceChatUtilities"]
+	path = vc-voiceChatUtilities
+	url = https://github.com/D3SOX/vc-voiceChatUtilities
+[submodule "vc-betterForums"]
+	path = vc-betterForums
+	url = https://github.com/Davr1/vc-betterForums
+[submodule "vc-sidebarchat"]
+	path = vc-sidebarchat
+	url = https://github.com/Masterjoona/vc-sidebarchat
+[submodule "vc-unreadcountbadge"]
+	path = vc-unreadcountbadge
+	url = https://github.com/Masterjoona/vc-unreadcountbadge
+[submodule "moreReact"]
+	path = moreReact
+	url = https://github.com/coldcord/moreReact
+[submodule "vc-NewlinesInCommands"]
+	path = vc-NewlinesInCommands
+	url = https://github.com/lolsuffocate/vc-NewlinesInCommands
+[submodule "vencord-KeywordNotify"]
+	path = vencord-KeywordNotify
+	url = https://github.com/x3rt/vencord-KeywordNotify
+[submodule "betterForwardMeta"]
+	path = betterForwardMeta
+	url = https://plugins.nin0.dev/betterForwardMeta/
+[submodule "favouriteAnything"]
+	path = favouriteAnything
+	url = https://plugins.nin0.dev/favouriteAnything/
+[submodule "messageListeningCover"]
+	path = messageListeningCover
+	url = https://plugins.nin0.dev/messageListeningCover/
+[submodule "userpluginInstaller"]
+	path = userpluginInstaller
+	url = https://plugins.nin0.dev/userpluginInstaller/
