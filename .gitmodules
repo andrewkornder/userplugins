@@ -34,3 +34,6 @@
 [submodule "userpluginInstaller"]
 	path = userpluginInstaller
 	url = https://plugins.nin0.dev/userpluginInstaller/
+[submodule "ProfileSets"]
+	path = ProfileSets
+	url = https://github.com/Eazvy/ProfileSets
