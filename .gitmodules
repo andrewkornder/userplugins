@@ -34,3 +34,6 @@
 [submodule "ProfileSets"]
 	path = ProfileSets
 	url = https://github.com/Eazvy/ProfileSets
+[submodule "betterForwardMeta"]
+	path = betterForwardMeta
+	url = https://github.com/andrewkornder/betterForwardMeta
