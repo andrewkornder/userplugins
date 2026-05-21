@@ -22,9 +22,6 @@
 [submodule "vencord-KeywordNotify"]
 	path = vencord-KeywordNotify
 	url = https://github.com/x3rt/vencord-KeywordNotify
-[submodule "betterForwardMeta"]
-	path = betterForwardMeta
-	url = https://plugins.nin0.dev/betterForwardMeta/
 [submodule "favouriteAnything"]
 	path = favouriteAnything
 	url = https://plugins.nin0.dev/favouriteAnything/
