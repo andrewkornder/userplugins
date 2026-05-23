@@ -37,3 +37,6 @@
 [submodule "betterForwardMeta"]
 	path = betterForwardMeta
 	url = https://github.com/andrewkornder/betterForwardMeta
+[submodule "Global-Search"]
+	path = Global-Search
+	url = https://github.com/deanxbox/Global-Search
