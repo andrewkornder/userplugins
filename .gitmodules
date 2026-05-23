@@ -46,3 +46,6 @@
 [submodule "split-messages"]
 	path = split-messages
 	url = https://github.com/andrewkornder/split-messages
+[submodule "vc-auto-responder"]
+	path = vc-auto-responder
+	url = https://github.com/andrewkornder/vc-auto-responder
