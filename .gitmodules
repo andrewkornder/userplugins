@@ -40,3 +40,6 @@
 [submodule "Global-Search"]
 	path = Global-Search
 	url = https://github.com/deanxbox/Global-Search
+[submodule "attachmentSnowflakeInfo"]
+	path = attachmentSnowflakeInfo
+	url = https://github.com/andrewkornder/attachmentSnowflakeInfo
