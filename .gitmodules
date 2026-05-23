@@ -43,3 +43,6 @@
 [submodule "attachmentSnowflakeInfo"]
 	path = attachmentSnowflakeInfo
 	url = https://github.com/andrewkornder/attachmentSnowflakeInfo
+[submodule "split-messages"]
+	path = split-messages
+	url = https://github.com/andrewkornder/split-messages
