@@ -49,3 +49,6 @@
 [submodule "vc-auto-responder"]
 	path = vc-auto-responder
 	url = https://github.com/andrewkornder/vc-auto-responder
+[submodule "vc-wordCount"]
+	path = vc-wordCount
+	url = https://github.com/andrewkornder/vc-wordCount
