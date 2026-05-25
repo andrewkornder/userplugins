@@ -1,6 +1,6 @@
 [submodule "venfetch"]
 	path = venfetch
-	url = https://git.nin0.dev/userplugins/venfetch
+	url = https://github.com/andrewkornder/venfetch
 [submodule "vc-voiceChatUtilities"]
 	path = vc-voiceChatUtilities
 	url = https://github.com/D3SOX/vc-voiceChatUtilities
