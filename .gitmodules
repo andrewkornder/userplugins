@@ -52,3 +52,6 @@
 [submodule "vc-wordCount"]
 	path = vc-wordCount
 	url = https://github.com/andrewkornder/vc-wordCount
+[submodule "vc-copyMessageDump"]
+	path = vc-copyMessageDump
+	url = https://github.com/andrewkornder/vc-copyMessageDump
