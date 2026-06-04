@@ -1,39 +1,12 @@
-[submodule "venfetch"]
-	path = venfetch
-	url = https://github.com/andrewkornder/venfetch
-[submodule "vc-voiceChatUtilities"]
-	path = vc-voiceChatUtilities
-	url = https://github.com/D3SOX/vc-voiceChatUtilities
 [submodule "vc-betterForums"]
 	path = vc-betterForums
 	url = https://github.com/Davr1/vc-betterForums
 [submodule "vc-sidebarchat"]
 	path = vc-sidebarchat
 	url = https://github.com/Masterjoona/vc-sidebarchat
-[submodule "vc-unreadcountbadge"]
-	path = vc-unreadcountbadge
-	url = https://github.com/Masterjoona/vc-unreadcountbadge
-[submodule "moreReact"]
-	path = moreReact
-	url = https://github.com/coldcord/moreReact
-[submodule "vc-NewlinesInCommands"]
-	path = vc-NewlinesInCommands
-	url = https://github.com/lolsuffocate/vc-NewlinesInCommands
-[submodule "vencord-KeywordNotify"]
-	path = vencord-KeywordNotify
-	url = https://github.com/x3rt/vencord-KeywordNotify
-[submodule "favouriteAnything"]
-	path = favouriteAnything
-	url = https://plugins.nin0.dev/favouriteAnything/
 [submodule "messageListeningCover"]
 	path = messageListeningCover
 	url = https://plugins.nin0.dev/messageListeningCover/
-[submodule "userpluginInstaller"]
-	path = userpluginInstaller
-	url = https://plugins.nin0.dev/userpluginInstaller/
-[submodule "ProfileSets"]
-	path = ProfileSets
-	url = https://github.com/Eazvy/ProfileSets
 [submodule "betterForwardMeta"]
 	path = betterForwardMeta
 	url = https://github.com/andrewkornder/betterForwardMeta
@@ -43,9 +16,6 @@
 [submodule "attachmentSnowflakeInfo"]
 	path = attachmentSnowflakeInfo
 	url = https://github.com/andrewkornder/attachmentSnowflakeInfo
-[submodule "split-messages"]
-	path = split-messages
-	url = https://github.com/andrewkornder/split-messages
 [submodule "vc-auto-responder"]
 	path = vc-auto-responder
 	url = https://github.com/andrewkornder/vc-auto-responder
